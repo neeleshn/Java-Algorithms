@@ -1,0 +1,4 @@
+1. Given a sentence in a char array
+2. Reverse the sentence but chars in words should not be reversed
+3. Donot use any extra variable
+4. Runtime = O(n)
